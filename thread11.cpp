@@ -10,7 +10,7 @@
 #include<chrono>
 #include<atomic>
 #include<cstdarg>
-
+//balis
 using namespace std;
 const int N = 10000000;
 //atomic_int num{0};
